@@ -1,0 +1,27 @@
+Privacy Policy for The Bundeli Holy Bible App
+
+
+Data Collection and Storage:
+We do not collect ANY data with our apps. Ever. 
+Since we collect nothing, we cannot store anything. 
+
+However, if you used Google Play to download and install this app then they do collect and store your personal information. httpspolicies.google.comprivacy 
+If you have Google Play Services installed on your device, they might collect personal information. httpspolicies.google.comprivacy 
+
+
+Permissions (Explained):
+
+Access Network State - This is used to check if you have internet access
+
+Internet - This is used to download Audio files that you choose to listen to or if you choose not to save the files, to live stream them. 
+
+Write to External Storage - This is used to save the files to external storage if allowed.
+
+Read from External Storage - This is used so that the downloaded files can be readplayed again and do not need to be live streamed (thus reducing your internet usage) 
+
+Schedule Exact Alarms - Used to control the time for the reading reminders and passage of the day if you choose to use those.  
+
+
+
+
+
